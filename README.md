@@ -1,6 +1,11 @@
 # Movie Genre Classification
 <h2> Movie_Genre_Recommendation </h2>
 
+<h5> Training data drive link: </h5> (https://drive.google.com/file/d/1hwm-R9G5Ckd-3_VIdxVkQ1_hf6c3CMrU/view?usp=sharing)
+
+<h5> Test data drive link: </h5> (https://drive.google.com/file/d/1B61Rx-AI73nzWsJMCOW1gY9fma5RcwSv/view?usp=sharing)
+
+<h3> </h3>
 
 This project involves building a movie genre classification model using machine learning techniques. The model is trained on a dataset containing movie plot summaries and their corresponding genres. After training, the model is used to predict the genres of unseen movie plot summaries.
 
